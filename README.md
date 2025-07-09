@@ -56,6 +56,6 @@ Ejemplo de uso: ```python main.py -i 9.9.9.9.9```
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-%40nezukomii-black?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/nezukomii)  
 [![YouTube](https://img.shields.io/badge/YouTube-%40nezukomii-black?style=for-the-badge&logo=youtube)](https://www.youtube.com/@nezukomii)
 
-[![Patreon](https://img.shields.io/badge/patreon-%40nezukomii-black?style=for-the-badge&logo=patreon)](https://www.youtube.com/@nezukomii)
+[![Patreon](https://img.shields.io/badge/patreon-%40nezukomii-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/@nezukomii)
 
 > Developed By Nezukomi | [Soblend Team](https://whatsapp.com/channel/0029VarSMCuL2AU2EUONKu08)
