@@ -3,6 +3,7 @@
 Esta es una herramienta la cual sirve para localizar IPs poniendola, actualmente no se puede obtener una ubicacion realmente
 exacta, pero quisas trayendo mas actualizaciones se hara disponible la localizacion exactacta, mientras tanto puedes usar esta herramienta para diferentes cosas las cuales son Rastreo de IPs y Generar un link temporal para rastrear la IPs, tambien este no tiene aun la capacidad de bloquear los VPN, por ahora.
 
+![Demostracion](demostracion.png)
 ---
 
 ## Instalacion de IP Locator
